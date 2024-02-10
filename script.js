@@ -1,4 +1,16 @@
+
+/**
+ * Pig Game
+ * 
+ * This script implements a simple Pig Game where players take turns rolling a dice
+ * and accumulating points. The first player to reach 100 points wins.
+ * 
+ * Author: [Your Name]
+ * Date: [Current Date]
+ */
+
 'use strict';
+
 // Selecting elements
 const score0El = document.querySelector('#score--0');
 const score1El = document.querySelector('#score--1');
